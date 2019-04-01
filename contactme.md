@@ -4,11 +4,11 @@
 
 <hr>
 <div class="row">
-  <div class="columnl" style="color:#888">
+  <div class="column left" style="color:#888">
             <a href="https://leahrosenstiel.github.io">About</a> <br>
             Contact Me
             </div>
-  <div class="columnr">
+  <div class="column right">
 leahsr[at]princeton[dot]edu 
 <br> <br>
 Princeton University <br />
