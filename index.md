@@ -1,7 +1,7 @@
 <hr>
 <div class="row">
   <div class="column" style="color:#888">
-            About 
+            About <br>
             <a href="https://leahrosenstiel.github.io/contactme.html">Contact Me</a>   
             </div>
   <div class="column">
