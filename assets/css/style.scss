@@ -26,6 +26,14 @@ h1 {
 color: #333
 }
 
+@media only screen and (min-width: 481px) {
+  body {
+    padding-top: 24px;
+    padding-right: 24px;
+    padding-left: 24px;
+  }
+}
+
 .wrapper {
     max-width: 1050px;
     min-width: 200px;
