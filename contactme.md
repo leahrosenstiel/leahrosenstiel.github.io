@@ -1,10 +1,9 @@
+<hr> 
 
 <span class="credits left" style="color:#888"> <a href="https://leahrosenstiel.github.io">About</a> | 
             Contact Me
             
-<hr>            
-
-leahsr@princeton.edu 
+leahsr[at]princeton.edu 
 
 Princeton University <br />
 001 Fisher Hall <br />
