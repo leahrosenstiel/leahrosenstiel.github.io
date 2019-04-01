@@ -1,5 +1,3 @@
-<hr>
-
 <span class="credits left" style="color:#888"> <a href="https://leahrosenstiel.github.io">About</a> | 
             Contact Me |
             <a href="https://leahrosenstiel.github.io/Rosenstiel_Current_CV.pdf">CV</a>
