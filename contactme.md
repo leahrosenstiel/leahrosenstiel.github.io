@@ -1,7 +1,5 @@
 
             
-
-
 <hr>
 <div class="row">
   <div class="column left" style="color:#888">
