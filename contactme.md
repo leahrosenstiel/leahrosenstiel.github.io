@@ -1,5 +1,8 @@
+
 <span class="credits left" style="color:#888"> <a href="https://leahrosenstiel.github.io">About</a> | 
             Contact Me
+            
+<hr>            
 
 leahsr@princeton.edu 
 
