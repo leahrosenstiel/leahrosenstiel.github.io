@@ -1,3 +1,7 @@
+---
+permalink: /index.html
+---
+
 <hr>
 
 <span class="credits left" style="color:#888"> About | 
