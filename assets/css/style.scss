@@ -87,15 +87,9 @@ section #title .credits {
 
 .column {
   float: left;
+  width: 50%;
 }
 
-.left {
-  width: 25%;
-}
-
-.right {
-  width: 75%;
-}
 
 /* Clear floats after the columns */
 .row:after {
