@@ -56,14 +56,14 @@ color: #333
   clear: both;
 }
 
-body {
+.wrapper {
   min-width: 600px;
   padding: 12px;
   padding-bottom: 0;
 }
 
 @media only screen and (min-width: 905px) {
-body {
+.wrapper {
     max-width: 1150px;
     margin: 20px 70px;
     position: relative;
