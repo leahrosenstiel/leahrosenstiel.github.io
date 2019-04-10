@@ -58,7 +58,7 @@ color: #333
 
 .wrapper {
   /*min-width: 600px;*/
-  min-width: 400px;
+  min-width: 350px;
   padding: 12px;
   padding-bottom: 0;
 }
@@ -71,11 +71,12 @@ section #title {
   max-width:400px;
 }
 
-/*@media only screen and (min-width: 630px) {
+@media only screen and (min-width: 630px) {
   .right{
-    max-width:495px;
+    width:75%;
+    /*max-width:495px;*/
   }
-}*/
+}
 
 @media only screen and (min-width: 905px) {
 .wrapper {
