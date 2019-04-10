@@ -70,6 +70,12 @@ section #title {
   max-width:400px;
 }
 
+@media only screen and (min-width: 630px) {
+  .right{
+    max-width:495px;
+  }
+}
+
 @media only screen and (min-width: 905px) {
 .wrapper {
     max-width: 1150px;
