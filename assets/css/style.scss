@@ -85,6 +85,9 @@ section #title .credits {
     margin-top: 0px;
 }
 
+.row{
+  min-width:60em;
+}
 
 .column {
   float: left;
@@ -98,8 +101,7 @@ section #title .credits {
   letter-spacing: 1px;
   line-height: 30px;
   background-color:#F5F5F5;
-  padding-left: 2%;
-  min-width:150px;
+  padding-left: 1.5em;
 }
 
 .right{
