@@ -43,9 +43,9 @@ color: #333
 }
 
 .right{
-  width: 75%;
+  width: calc(75% - 100px);
   padding-left: 5%;
-  max-width:330px;
+  /*max-width:330px;*/
 }
 
 
@@ -57,7 +57,8 @@ color: #333
 }
 
 .wrapper {
-  min-width: 600px;
+  /*min-width: 600px;*/
+  min-width: 400px;
   padding: 12px;
   padding-bottom: 0;
 }
@@ -70,11 +71,11 @@ section #title {
   max-width:400px;
 }
 
-@media only screen and (min-width: 630px) {
+/*@media only screen and (min-width: 630px) {
   .right{
     max-width:495px;
   }
-}
+}*/
 
 @media only screen and (min-width: 905px) {
 .wrapper {
@@ -84,7 +85,8 @@ section #title {
     padding: 24px 60px 24px 60px;
 }
   .right{
-    max-width:1150px;
+    /*max-width:1150px;*/
+    width:75%
   }
   section{
     max-width:1150px;
