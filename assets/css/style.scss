@@ -27,7 +27,7 @@ color: #333
 }
 
 
-.wrapper {
+body {
   max-width:330px;
   min-width: 100px;
   padding: 12px;
@@ -35,7 +35,7 @@ color: #333
 }
 
 @media only screen and (min-width: 787px) {
-.wrapper {
+body {
     max-width: 1150px;
     margin: 20px 70px;
     position: relative;
@@ -44,7 +44,6 @@ color: #333
 }
 
 section{
-  max-width: 1150px;
   margin-top: 10px;
 }
 
