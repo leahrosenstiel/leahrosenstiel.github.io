@@ -20,7 +20,6 @@ body {
     border-style: none;
     border-width: 2px;
     border-color: #b6b6b657;
-  min-width: 600px;
 }
 
 h1 {
@@ -37,6 +36,7 @@ color: #333
 @media only screen and (min-width: 481px) {
 .wrapper {
     max-width: 1150px;
+  min-width: 55em;
     margin: 20px 70px;
     position: relative;
     padding: 24px 60px 24px 60px;
