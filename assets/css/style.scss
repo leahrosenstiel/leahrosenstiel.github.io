@@ -104,6 +104,7 @@ pagename:after{
   }
   currentpage {
   margin-left:-1em; 
+  vertical-align:0.1em;
 }
   currentpage:before {
   content:" ■ ";
@@ -132,7 +133,8 @@ pagename:after{
     text-align: left;
   }
   currentpage {
-  margin-left:-1em;
+    margin-left:-1em;
+    vertical-align:0.1em;
 }
   currentpage:before {
   content:" ■ ";
