@@ -49,6 +49,7 @@ color: #333
   width: calc(75% - 100px);
   padding-left: 5%;
   min-width: 300px;
+  padding-top: 10px;
   /*max-width:330px;*/
 }
 
@@ -82,13 +83,14 @@ currentpage {
 }
 
 pagename:after{
-  content:"  ";
+  content:" ";
   white-space: pre;  
 }
 
 @media only screen and (min-width: 630px) {
   .right{
     width:75%;
+    padding-top: 0px;
     /*max-width:495px;*/
   }
   .left{
@@ -115,7 +117,8 @@ pagename:after{
 }
   .right{
     /*max-width:1150px;*/
-    width:75%
+    width:75%;
+    padding-top: 0px;
   }
   .left{
     width:15%
