@@ -86,6 +86,11 @@ section #title {
   }
   currentpage {
   margin-left:-1em;
+  content:" &#9632; ";  
+}
+  pagename:after{
+  content:" \A ";
+  white-space: pre;  
 }
 }
 
@@ -105,12 +110,17 @@ section #title {
   }
   currentpage {
   margin-left:-1em;
+  content:" &#9632; ";
 }
   section{
     max-width:1150px;
   }
   section #title {
   max-width:1500px;
+}
+  pagename:after{
+  content:" \A ";
+  white-space: pre;  
 }
 }
 
@@ -157,7 +167,6 @@ tab1 { padding-left: 1em; }
 
 /* Current Page Marker */
 currentpage {
-  content:" ■ ";
   display:inline;
 }
 
