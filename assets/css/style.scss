@@ -42,7 +42,8 @@ color: #333
   background-color:#F5F5F5;
   padding-left: 0ch;
   min-width: 100px;
-  width: 326px;
+  width: 350px;
+  text-align: center;
 }
 
 .right{
@@ -96,6 +97,7 @@ pagename:after{
   .left{
     width:15%;
     padding-left: 2ch;
+    text-align: left;
   }
   currentpage {
   margin-left:-1em; 
@@ -124,6 +126,7 @@ pagename:after{
   .left{
     width:15%;
     padding-left: 2ch;
+    text-align: left;
   }
   currentpage {
   margin-left:-1em;
