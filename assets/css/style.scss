@@ -42,12 +42,14 @@ color: #333
   background-color:#F5F5F5;
   padding-left: 0ch;
   min-width: 100px;
-  width: 350px;
+  /*width: 350px;*/
+  width: 100%;
   text-align: center;
 }
 
 .right{
-  width: calc(75% - 100px);
+  /*width: calc(75% - 100px);*/
+  width: 100%;
   padding-left: 5%;
   min-width: 300px;
   padding-top: 10px;
