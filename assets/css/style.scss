@@ -76,6 +76,16 @@ section #title {
   max-width:400px;
 }
 
+/* Current Page Marker */
+currentpage {
+  display:inline;
+}
+
+pagename:after{
+  content:"  ";
+  white-space: pre;  
+}
+
 @media only screen and (min-width: 630px) {
   .right{
     width:75%;
@@ -169,13 +179,5 @@ section #title .credits {
 /* Make a tab tag */
 tab1 { padding-left: 1em; }
 
-/* Current Page Marker */
-currentpage {
-  display:inline;
-}
 
-pagename:after{
-  content:"  ";
-  white-space: pre;  
-}
 
