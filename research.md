@@ -1,7 +1,7 @@
 <hr>
 <div class="row">
   <div class="column left" style="color:#888">
-    <a href="https://leahrosenstiel.github.io">About</a> <br><currentpage></currentpage> &#9632; Research  <br> <a href="teaching">Teaching</a> <br> <a href="contactme"> Contact Me</a>
+    <pagename><a href="https://leahrosenstiel.github.io">About</a> </pagename> <pagename> <currentpage></currentpage>  Research  </pagename> <pagename> <a href="teaching">Teaching</a> </pagename> <a href="contactme"> Contact Me</a>
   </div>
   <div class="column right">
     <h1 style="color:#333">Working Papers</h1> 
