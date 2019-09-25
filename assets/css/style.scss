@@ -85,8 +85,10 @@ section #title {
     width:15%
   }
   currentpage {
-  margin-left:-1em;
-  content:" &#9632; ";  
+  margin-left:-1em; 
+}
+  currentpage:before {
+  content:" &#9632; ";
 }
   pagename:after{
   content:" \A ";
@@ -110,6 +112,8 @@ section #title {
   }
   currentpage {
   margin-left:-1em;
+}
+  currentpage:before {
   content:" &#9632; ";
 }
   section{
@@ -171,7 +175,7 @@ currentpage {
 }
 
 pagename:after{
-  content:"  &#nbsp; ";
+  content:"  ";
   white-space: pre;  
 }
 
