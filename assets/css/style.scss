@@ -130,8 +130,9 @@ section #navbanner a{
   white-space: pre;  
 }
   section #navbanner{
-    bottom: 100%;
+    bottom: auto;
     right:0;
+    top: 0;
   }
   section #title {
     padding-top:30px;
@@ -174,8 +175,9 @@ section #navbanner a{
   white-space: pre;  
   }
   section #navbanner{
-    bottom: 100%;
+    bottom: auto;
     right:0;
+    top: 0;
   }
 }
 
