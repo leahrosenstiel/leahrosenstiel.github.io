@@ -91,6 +91,12 @@ pagename:after{
   white-space: pre;  
 }
 
+section #navbanner{
+  margin-top: -30px;
+  margin-bottom: 60px;
+  bottom: 0;
+}
+
 @media only screen and (min-width: 630px) {
   .right{
     width:75%;
