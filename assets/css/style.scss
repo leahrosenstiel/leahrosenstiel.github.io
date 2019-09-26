@@ -95,6 +95,12 @@ section #navbanner{
   margin-top: -30px;
   margin-bottom: 60px;
   bottom: 0;
+  position:absolute;
+}
+
+
+section #navbanner a{
+  color: #333;
 }
 
 @media only screen and (min-width: 630px) {
@@ -119,6 +125,9 @@ section #navbanner{
   content:" \A ";
   white-space: pre;  
 }
+  section #navbanner{
+    position:relative;
+  }
 }
 
 @media only screen and (min-width: 905px) {
@@ -154,7 +163,10 @@ section #navbanner{
   pagename:after{
   content:" \A ";
   white-space: pre;  
-}
+  }
+  section #navbanner{
+    position:relative;
+  }
 }
 
 section #title h1 {
