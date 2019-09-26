@@ -92,8 +92,8 @@ pagename:after{
 }
 
 section #navbanner{
-  margin-top: 30px;
-  margin-bottom: 10px;
+  /*margin-top: 30px;
+  margin-bottom: 10px;*/
   bottom: 0;
   position:absolute;
   text-align: right;
@@ -128,9 +128,8 @@ section #navbanner a{
   white-space: pre;  
 }
   section #navbanner{
-    position:relative;
-    margin-top: -30px;
-    margin-bottom: 60px;
+    top: 0;
+    right: 0;
   }
 }
 
@@ -169,9 +168,8 @@ section #navbanner a{
   white-space: pre;  
   }
   section #navbanner{
-    position:relative;
-    margin-top: -30px;
-    margin-bottom: 60px;
+    top: 0;
+    right: 0;
   }
 }
 
