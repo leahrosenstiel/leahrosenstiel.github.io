@@ -93,7 +93,7 @@ pagename:after{
 
 section #navbanner{
   margin-top: 30px;
-  margin-bottom: 60px;
+  margin-bottom: 10px;
   bottom: 0;
   position:absolute;
   text-align: right;
@@ -129,6 +129,7 @@ section #navbanner a{
   section #navbanner{
     position:relative;
     margin-top: -30px;
+    margin-bottom: 60px;
   }
 }
 
@@ -169,6 +170,7 @@ section #navbanner a{
   section #navbanner{
     position:relative;
     margin-top: -30px;
+    margin-bottom: 60px;
   }
 }
 
