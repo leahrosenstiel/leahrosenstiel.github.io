@@ -1,7 +1,7 @@
 <hr>
 <div class="row">
   <div class="column left" style="color:#888">
-    <pagename><a href="https://leahrosenstiel.github.io">About</a> </pagename> <pagename> <a href="research">Research</a> </pagename> <pagename><currentpage></currentpage> Teaching</pagename> <a href="contactme">Contact Me</a>
+    <h3>Teaching</h3>
   </div>
   <div class="column right">
 <h1 style="color:#333">POL329: Policy Making in America</h1> 
