@@ -95,7 +95,7 @@ section #navbanner{
   /*margin-top: 30px;
   margin-bottom: 10px;*/
   bottom: 0;
-  right:0;
+  left:0;
   position:absolute;
   text-align: right;
 }
@@ -130,6 +130,7 @@ section #navbanner a{
 }
   section #navbanner{
     top: 0;
+    right:0;
   }
   section #title {
     padding-top:30px;
@@ -173,6 +174,7 @@ section #navbanner a{
   }
   section #navbanner{
     top: 0;
+    right:0;
   }
 }
 
