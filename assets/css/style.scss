@@ -81,22 +81,13 @@ section #title {
   max-width:400px;
 }
 
-/* Current Page Marker */
-currentpage {
-  display:inline;
-}
-
-pagename:after{
-  content:" ";
-  white-space: pre;  
-}
 
 section #navbanner{
   /*margin-top: 30px;
   margin-bottom: 10px;*/
   bottom: 0;
   left:-5%;
-  position:absolute;
+  position:static;
   width: 100%;
   text-align: center;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif;
@@ -109,6 +100,13 @@ section #navbanner a{
   padding-bottom:30px;
 }
 
+section #navbanner a::after{
+  content:"\A";
+  white-space: pre;
+}
+
+
+
 @media only screen and (min-width: 630px) {
   .right{
     width:75%;
@@ -120,17 +118,7 @@ section #navbanner a{
     padding-left: 2ch;
     text-align: left;
   }
-  currentpage {
-  margin-left:-1em; 
-  vertical-align:0.1em;
-}
-  currentpage:before {
-  content:" ■ ";
-}
-  pagename:after{
-  content:" \A ";
-  white-space: pre;  
-}
+
   section #navbanner{
     bottom: auto;
     right:0;
@@ -138,6 +126,12 @@ section #navbanner a{
     position: static;
     text-align: right;
   }
+
+section #navbanner a::after{
+  content:"\A";
+  white-space: pre;
+}
+
   section #title {
     padding-top:30px;
   }
@@ -146,7 +140,7 @@ section #navbanner a{
 @media only screen and (min-width: 905px) {
 .wrapper {
     max-width: 1150px;
-    margin: 0px 70px;
+    margin: auto;
     position: relative;
     padding: 0px 60px 24px 60px;
 }
