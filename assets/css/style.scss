@@ -96,8 +96,7 @@ section #navbanner{
 
 section #navbanner a{
   color: #333;
-  padding: 15px;
-  padding-bottom:30px;
+  padding: 0px 15px;
 }
 
 section #navbanner a::after{
@@ -128,7 +127,7 @@ section #navbanner a::after{
   }
 
 section #navbanner a::after{
-  content:"\A";
+  content:"";
   white-space: pre;
 }
 
