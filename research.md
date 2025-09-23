@@ -11,15 +11,15 @@
 <p>Many reasonably assume that these assistance programs distribute funding to states impartially because they use statistical formulas based on population levels, poverty, and other characteristics that, ostensibly, measure need. However, in Politics by Formula, Leah Rosenstiel shows how this seemingly technocratic aspect of federal policymaking is deeply affected by both the structure of political institutions and the motivations of elected officials. Key congressional committees—and especially their leaders—design formulas to benefit their constituencies. Superficially neutral formulas can shield these political decisions from scrutiny, but formulas also constrain congressmembers. Drawing on formal modeling and quantitative and qualitative evidence, Rosenstiel elucidates how these dynamics shape whose and what needs are met and where.</p>
 
     <h1 style="color:#333">Articles</h1> 
-    <p><h4 style="color:#333;display:inline"><a href = "https://www.journals.uchicago.edu/doi/10.1086/735458"> Unorthodox Lawmaking and the Value of Committee Assignments </a></h4> <h4 style="color:#333;display:inline"> (with James Curry). Forthcoming at the <i>Journal of Politics</i>.</h4></p>
+    <p><h4 style="color:#333;display:inline"><a href = "https://www.journals.uchicago.edu/doi/10.1086/735458"> Unorthodox Lawmaking and the Value of Committee Assignments </a></h4><>br<h4 style="color:#333;display:inline">(with James Curry)<br>Forthcoming at the <i>Journal of Politics</i>.</h4></p>
 
-    <p><h4 style="color:#333;display:inline"><a href = "https://www.science.org/doi/10.1126/science.adx5154"> Partisan disparities in the funding of science in the United States </a></h4> <h4 style="color:#333;display:inline"> (with Alexander C. Furnas, Nic Fishman, and Dashun Wang). 2025. <i>Science</i>. </h4></p>
+    <p><h4 style="color:#333;display:inline"><a href = "https://www.science.org/doi/10.1126/science.adx5154"> Partisan disparities in the funding of science in the United States </a></h4><br><h4 style="color:#333;display:inline">(with Alexander C. Furnas, Nic Fishman, and Dashun Wang)<br><i>Science</i>, 2025. </h4></p>
 
-    <p><h4 style="color:#333;display:inline"><a href = "https://doi.org/10.1017/S000305542400011X"> The Distributive Politics of Grants-in-Aid</a></h4> <h4 style="color:#333;display:inline">. 2025. <i>American Political Science Review</i>.</h4></p>
+    <p><h4 style="color:#333;display:inline"><a href = "https://doi.org/10.1017/S000305542400011X"> The Distributive Politics of Grants-in-Aid</a></h4><br><h4 style="color:#333;display:inline"><i>American Political Science Review</i>, 2025.</h4></p>
 
-    <p><h4 style="color:#333;display:inline"><a href = "https://onlinelibrary.wiley.com/doi/10.1111/lsq.12411"> Congressional Bargaining and the Distribution of Grants</a></h4><h4 style="color:#333;display:inline">. 2023. <i>Legislative Studies Quarterly</i>. </h4></p>
+    <p><h4 style="color:#333;display:inline"><a href = "https://onlinelibrary.wiley.com/doi/10.1111/lsq.12411"> Congressional Bargaining and the Distribution of Grants</a></h4><br><h4 style="color:#333;display:inline"><i>Legislative Studies Quarterly</i>, 2023. </h4></p>
 
-    <p><h4 style="color:#888;display:inline"><a href = "https://doi.org/10.1017/S0003055419000881">Measuring the Influence of Political Actors on the Federal Budget</a> </h4> <h4 style="color:#333;display:inline"> (with Ben Hammond). 2020. <i>American Political Science Review</i>. </h4></p> 
+    <p><h4 style="color:#888;display:inline"><a href = "https://doi.org/10.1017/S0003055419000881">Measuring the Influence of Political Actors on the Federal Budget</a> </h4><br><h4 style="color:#333;display:inline">(with Ben Hammond)<br><i>American Political Science Review</i>, 2020. </h4></p> 
     
   </div>
 </div>
